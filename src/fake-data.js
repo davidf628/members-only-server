@@ -2,9 +2,9 @@ const GROUP_ID_1 = '1234';
 const GROUP_ID_2 = '2345';
 const GROUP_ID_3 = '3456';
 
-const USER_ID_1 = '<insert user 1 id here>';
-const USER_ID_2 = '<insert user 2 id here>';
-const USER_ID_3 = '<insert user 3 id here>';
+const USER_ID_1 = 'rKOehbRA51UWQODWC5hK2ciFvHq2';
+const USER_ID_2 = '6agBDLPoNMgY9HWuLBXqWd9oADB3';
+const USER_ID_3 = 'AY9mHGGqdvhZEcdCKbk89sJZiKH2';
 
 module.exports.groups = [{
     id: GROUP_ID_1,

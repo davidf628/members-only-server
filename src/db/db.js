@@ -6,7 +6,6 @@ export const db = {
     _dbClient: null,
     connect: async function(url) {
         const client = await MongoClient.connect(url, {
-            poolSize: 10,
             useNewUrlParser: true,
             useUnifiedTopology: true,
         });
